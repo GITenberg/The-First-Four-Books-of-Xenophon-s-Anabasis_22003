@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/543
     wikipedia: http://en.wikipedia.org/wiki/Xenophon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22003#The-First-Four-Books-of-Xenophon-s-Anabasis
 gutenberg_issued: '2007-07-06'
 gutenberg_type: Text
 identifiers:
